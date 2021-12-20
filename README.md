@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Otavio Moreira
 
-- 🔭 Hoje trabalho com Front-end
+- 🔭 Hoje trabalho com Front-end e coordeno uma equipe de Desenvolvimento
 - 🌱 Estudando Devops Gitlab CI
 
 <div align="center">
