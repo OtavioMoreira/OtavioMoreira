@@ -18,7 +18,7 @@
   
 - 👨‍💻 All of my projects are available at [teste.com.br](teste.com.br)
 
-- 💬 Ask me about **ReactJS, VueJs, Laravel**
+- 💬 Ask me about **Javascript, ReactJS, VueJs, Php, Laravel, Codeigniter, Docker**
 
 - 📫 How to reach me **otaviommoreira94@gmail.com**
 
