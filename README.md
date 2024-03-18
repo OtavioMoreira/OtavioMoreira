@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently updating **ReactJS and NextJs**
   
-- 👨‍💻 All of my projects are available at [teste.com.br](teste.com.br)
+- 👨‍💻 All of my projects are available at [https://otaviomoreira.github.io/](https://otaviomoreira.github.io/)
 
 - 💬 Ask me about **Javascript, ReactJS, VueJs, Php, Laravel, Codeigniter, Docker**
 
